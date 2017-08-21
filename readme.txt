@@ -1,2 +1,3 @@
 Git is a distributed version control system.
 Git is free software. this is my first use git
+Git repository   temp repository Git has a mutable index called stage
